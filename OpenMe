@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Open Me 💌</title>
+    <style>
+        body {
+            background-color: rgb(230, 173, 189);  /* Set the page background color */
+            color: darkblue;  /* Set the font color */
+            font-family: Arial, sans-serif;  /
+        }
+
+        /* Example of changing the color of an h1 tag */
+        h1 {
+            color: #000000;  
+        }
+    </style> 
+</head>
+<body>
+    <h1>Hi sayang!</h1>
+    <p>I spent the last 45 minutes learing HTML just to
+        tell you that I ❤️ youuuuuuu
+
+    <br>
+    <br>
+I made the background pink, added emojis and changed the font too.
+<br><br>
+Imma make cuter stuff the better I get at this hehe
+    </p>
+</body>
+</html>
